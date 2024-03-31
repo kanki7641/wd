@@ -1,6 +1,6 @@
 {
-  "name": "ELSA_BOT-V2",
-  "description": "تم تطرير البوت بواسطه الجزار وايتاتشي♥️",
+  "name": "Sukuna_BOT-V1",
+  "description": "تم تطرير البوت بواسطه سوكونا♥️",
   "logo": "https://telegra.ph/file/24bb9841a79d8b45e8441.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "ELSA", "ELGAZAR","Elsa","theme bot","multi device","baileys","elsa"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "اسم المطور",
-      "value": "𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑"
+      "value": "𝑺𝒖𝒌𝒖𝒏𝒂🌴"
   },
     "AUTO_STATUS_SAVER": {
       "description": "لا تغيره.",
